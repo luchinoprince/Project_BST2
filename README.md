@@ -1,0 +1,2 @@
+# Project_BST2
+Codes and pdf of the first project of Bayesian Statistical Theory II. We first give an outline/motivation for the field of Bayesian non paramatrics'. We then introduce the Dirichlet process, giving some basic theoretical result as well as various sampling schemes for generating data according to it. Finally we give some empirical examples of some of the properties of the Dirichlet Process.
